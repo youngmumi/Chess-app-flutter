@@ -5,3 +5,4 @@
 * Mitch koko 클론 코딩  
 
 
+<img src = "images/chess.png">
